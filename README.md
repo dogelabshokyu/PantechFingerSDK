@@ -10,7 +10,10 @@ VEGA 지문인식 SDK
 * VEGA LTE A (IM-A880S)
 * VEGA Secret Note (IM-A890S / IM-A890K / IM-A890L)
 * VEGA Secret Up (IM-A900S / IM-A900K / IM-A900L)
+
+대상 모델은 아니나 작동이 확인된 VEGA 모델
 * VEGA Iron 2 (IM-A910S / IM-A910K / IM-A910L)
+* VEGA Secret Note 2 (IM-A930S / IM-A930K / IM-A930L)
 
 대상 모델 S/W 버전
 * Android JB 기준으로 개발 되었지만 KitKat 버전 또한 합니다.
